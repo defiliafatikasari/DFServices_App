@@ -1,0 +1,21 @@
+import ImgLogo from '../assets/images/logodf.png';
+import ImgOnboarding from '../assets/images/bg-onboarding.jpg';
+import ImgLogin from '../assets/images/defilia.png';
+import ImgBgLogin from '../assets/images/bg-login.jpg';
+import ImgState from '../assets/images/state.png';
+import JprintHp from '../assets/images/jprinthp.png';
+import JprintW from '../assets/images/jprintw.png';
+import JprintG from '../assets/images/jprintg.png';
+import Swipper1 from '../assets/images/swipper1.jpg';
+import Swipper2 from '../assets/images/swipper2.jpg';
+import Swipper3 from '../assets/images/swipper3.jpg';
+import Swipper4 from '../assets/images/swipper4.jpg';
+import Swipper5 from '../assets/images/swipper5.jpg';
+import Swipper6 from '../assets/images/swipper6.jpg';
+import JprintBB from '../assets/images/jprintbb.png';
+import Jketik from '../assets/images/jketik.png';
+import Jmakalah from '../assets/images/jmakalah.png';
+import Jppt from '../assets/images/jppt.png';
+import Jed from '../assets/images/jeditdesain.png';
+
+export {ImgLogin, ImgLogo, ImgOnboarding, ImgBgLogin, ImgState, JprintHp, JprintW, JprintG, Swipper1, Swipper2, Swipper3, Swipper4, Swipper5, Swipper6, JprintBB, Jketik, Jmakalah, Jppt, Jed};
